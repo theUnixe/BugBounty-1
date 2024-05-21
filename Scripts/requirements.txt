@@ -1,4 +1,4 @@
-requests==2.20
+requests==2.32.0
 asn1crypto==0.24.0
 cffi==1.11.2
 cryptography==39.0.1
