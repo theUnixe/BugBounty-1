@@ -12,4 +12,4 @@ censys==0.0.8
 psycopg2
 beautifulsoup4
 certifi>=2022.12.7 # not directly required, pinned by Snyk to avoid a vulnerability
-urllib3>=1.26.5 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
